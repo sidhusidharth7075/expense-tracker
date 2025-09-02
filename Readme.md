@@ -14,33 +14,7 @@
 A simple full-stack Expense Tracker app (React + Node/Express + MongoDB) with user authentication, income & expense management, charts, file uploads and basic dashboard analytics.
 
 
-<div align="center">
 
-### 🤝 Get in Touch
-
-For inquiries or collaboration opportunities, reach out via:
-
-</div>
-
-<div align="center">
-
-| 📧 **Email** | [sidhusidharth7075@gmail.com](mailto:sidhusidharth7075@gmail.com) |
-| 💼 **LinkedIn** | [LohithSappa](https://www.linkedin.com/in/lohith-sappa-aab07629a/) |
-
-</div>
-
----
-
-<div align="center">
-
-⭐ **Don't forget to star this repository if you found it helpful!** ⭐
-
-**Made with ❤️**
-
-[![GitHub stars](https://img.shields.io/github/stars/sidhusidharth7075/expense-tracker?style=social&label=Star)](https://github.com/sidhusidharth7075/expense-tracker)
-[![GitHub forks](https://img.shields.io/github/forks/sidhusidharth7075/expense-tracker?style=social&label=Fork)](https://github.com/sidhusidharth7075/expense-tracker)
-
-</div>
 
 give star to repo if it is useful
 ## Highlights ✨
@@ -174,4 +148,30 @@ If you'd like, I can also:
 
 ---
 
-give star to repo if it is useful
+<div align="center">
+
+### 🤝 Get in Touch
+
+For inquiries or collaboration opportunities, reach out via:
+
+</div>
+
+<div align="center">
+
+| 📧 **Email** | [sidhusidharth7075@gmail.com](mailto:sidhusidharth7075@gmail.com) |
+| 💼 **LinkedIn** | [LohithSappa](https://www.linkedin.com/in/lohith-sappa-aab07629a/) |
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **Don't forget to star this repository if you found it helpful!** ⭐
+
+**Made with ❤️**
+
+[![GitHub stars](https://img.shields.io/github/stars/sidhusidharth7075/expense-tracker?style=social&label=Star)](https://github.com/sidhusidharth7075/expense-tracker)
+[![GitHub forks](https://img.shields.io/github/forks/sidhusidharth7075/expense-tracker?style=social&label=Fork)](https://github.com/sidhusidharth7075/expense-tracker)
+
+</div>
